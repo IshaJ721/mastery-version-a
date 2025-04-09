@@ -1,0 +1,511 @@
+   94  make clena
+   95  make clean
+   96  make all
+   97  ./runner -r traces/coalescing-bal.rep
+   98  make clean
+   99  make all
+  100  ./runner -r traces/coalescing-bal.rep
+  101  make clean
+  102  make all
+  103  make clean
+  104  make all
+  105  make clean
+  106  make all
+  107  make clean
+  108  make all
+  109  make clean
+  110  make all
+  111  make clean
+  112  make
+  113  make clean
+  114  make all
+  115  make clean
+  116  make all
+  117  make clean
+  118  make
+  119  ./runner -r traces/coalescing-bal.rep
+  120  ./runner -r traces/short1.rep
+  121  make clean
+  122  make
+  123  ./runner -r traces/short1.rep
+  124  make clean
+  125  make
+  126  ./runner -r traces/short1.rep
+  127  make clean
+  128  make
+  129  ./runner -r traces/short1.rep
+  130  ./heap_runner
+  131  ./heap_runner -c
+  132  ./runner -r traces/short1.rep -c
+  133  make clean
+  134  ./runner -r traces/short1.rep -c
+  135  ./runner -r traces/short1.rep -c
+  136  ./runner -r traces/coalescing-bal.rep
+  137  make clean
+  138  make all
+  139  ./runner -r traces/coalescing-bal.rep
+  140  make clean
+  141  make all
+  142  ./runner -r traces/coalescing-bal.rep
+  143  make clean
+  144  make all
+  145  make clean
+  146  make all
+  147  ./runner -r traces/coalescing-bal.rep
+  148  make clean
+  149  make
+  150  driver.py
+  151  make clean
+  152  make all
+  153  driver.py
+  154  ./runner -r traces/coalescing-bal.rep
+  155  make clen
+  156  make clean
+  157  make all
+  158  driver.py
+  159  make clean
+  160  make all
+  161  make all
+  162  make clean
+  163  make all
+  164  driver.py
+  165  make clean
+  166  make all
+  167  ./runner -r traces/coalescing-bal.rep
+  168  make clean
+  169  make all
+  170  ./runner -r traces/coalescing-bal.rep
+  171  driver.py
+  172  make clean
+  173  make all
+  174  driver.py
+  175  make clean
+  176  make all
+  177  driver.py
+  178  make clean
+  179  make all
+  180  driver.py
+  181  make clean
+  182  make all
+  183  driver.py
+  184  make clean
+  185  make all
+  186  driver.py
+  187  make clean
+  188  make all
+  189  driver.py
+  190  make clean
+  191  make all
+  192  driver.py
+  193  make clean
+  194  make all
+  195  driver.py
+  196  make clean
+  197  make all
+  198  driver.py
+  199  make clean
+  200  make all
+  201  driver.py
+  202  make clean
+  203  make all
+  204  driver.py
+  205  make clean
+  206  make all
+  207  driver.py
+  208  make clean
+  209  make all
+  210  driver.py
+  211  make clean
+  212  make all
+  213  driver.py
+  214  make clean
+  215  make all
+  216  driver.py
+  217  make clean
+  218  make all
+  219  driver.py
+  220  make clean
+  221  make all
+  222  driver.py
+  223  driver.py
+  224  make clean
+  225  make all
+  226  driver.py
+  227  ./runner -r traces/coalescing-bal.rep
+  228  make clean
+  229  make all
+  230  ./runner -r traces/coalescing-bal.rep
+  231  make clean
+  232  make all
+  233  ./runner -r traces/coalescing-bal.rep
+  234  make clean
+  235  make all
+  236  ./runner -r traces/coalescing-bal.rep
+  237  driver.py
+  238  ./runner -r traces/random.rep
+  239  make clean
+  240  make all
+  241  ./runner -r traces/random.rep
+  242  driver.py
+  243  make clean
+  244  make all
+  245  driver.py
+  246  make clean
+  247  make all
+  248  driver.py
+  249  make clean
+  250  make all
+  251  driver.py
+  252  make clean
+  253  make all
+  254  driver.py
+  255  make clean
+  256  make all
+  257  driver.py
+  258  ./runner -r traces/random.rep
+  259  make clean
+  260  make all
+  261  ./runner -r traces/random.rep
+  262  driver.py
+  263  ./runner -r traces/binary.rep
+  264  make clean
+  265  make al
+  266  make all
+  267  ./runner -r traces/binary.rep
+  268  make clean
+  269  make all
+  270  make clean
+  271  make all
+  272  make clean
+  273  make all
+  274  make all
+  275  ./runner -r traces/binary.rep
+  276  make clean
+  277  make all
+  278  ./runner -r traces/binary.rep
+  279  make clean
+  280  make all
+  281  driver.py
+  282  make clean
+  283  make all
+  284  driver.py
+  285  make clean
+  286  make all
+  287  driver.py
+  288  make celan
+  289  make clean
+  290  make all
+  291  driver.py
+  292  make clean
+  293  make all
+  294  driver.py
+  295  make clean
+  296  make all
+  297  driver.py
+  298  make clean
+  299  make all
+  300  driver.py
+  301  ./runner -r traces/binary.rep
+  302  make clena
+  303  make clean
+  304  make all
+  305  ./runner -r traces/binary.rep
+  306  make clean
+  307  make all
+  308  ./runner -r traces/binary.rep
+  309  driver.py
+  310  make clean
+  311  make all
+  312  driver.py
+  313  make clean
+  314  make all
+  315  driver.py
+  316  make clean 
+  317  make all
+  318  make clean
+  319  make all
+  320  driver.py
+  321  make clean
+  322  make all
+  323  make all
+  324  make clean
+  325  make all
+  326  make clean
+  327  make all
+  328  driver.py
+  329  make clean
+  330  make all
+  331  driver.py
+  332  make clean
+  333  make all
+  334  driver.py
+  335  make clean
+  336  make clean
+  337  make all
+  338  driver.py
+  339  make cleanb
+  340  make clean
+  341  make all
+  342  driver.py
+  343  make clean
+  344  make all
+  345  driver.py
+  346  make clean
+  347  make all
+  348  driver.py
+  349   make clean
+  350  make clean
+  351  make all
+  352  driver.py
+  353  make
+  354  r -i bin/short1.rep
+  355  gdb bin/
+  356  r -i testcases/short1.rep
+  357  make clean
+  358  make debug
+  359  gdb bin
+  360  ref.out -t short2.rep
+  361  ref.out -t short3.rep
+  362  cd ./.gdbhistory
+  363  cd .gdbhistory
+  364  make clean
+  365  make all
+  366  history
+  367  cd gdb_logs.txt
+  368  cd ./gdb_logs.txt
+  369  cd */gdb_logs.txt
+  370  cd ~/.gdbinit
+  371  cd ./.gdbinit
+  372  cd ./gdbinit
+  373  cd ./.gdbhistory
+  374  make clean
+  375  make debug
+  376  gdb bin/grind
+  377  make clean
+  378  make all
+  379  r -i bin/a.out -t short1.rep
+  380  run  bin/a.out -t short1.rep
+  381   bin/a.out -t short1.rep
+  382  ls
+  383  history
+  384  cd ..
+  385  ls
+  386  rm shared-repo-version-g-IshaJ721/
+  387  rm -rf shared-repo-version-g-IshaJ721/
+  388  git add .
+  389  git commit
+  390  git add .
+  391  git commit
+  392  git push
+  393  make
+  394  make clean
+  395  r -h
+  396  -h
+  397  bin/se -h bin/test-hw
+  398   -h bin/test-hw
+  399  bin/test-hw
+  400  make
+  401  bin/test-hw
+  402  make
+  403  bin/test-hw
+  404  make clean
+  405  make
+  406  bin/test-hw
+  407  make
+  408  bin/test-hw
+  409  make
+  410  bin/test-hw
+  411  make
+  412  bin/test-hw
+  413  make
+  414  bin/test-hw
+  415  make
+  416  bin/test-hw
+  417  make
+  418  bin/test-hw
+  419  make
+  420  bin/test-hw
+  421  make clean
+  422  make
+  423  make clean
+  424  bin/test-hw
+  425  make
+  426  bin/test-hw
+  427  make
+  428  bin/test-hw
+  429  make
+  430  bin/test-hw
+  431  make
+  432  bin/test-hw
+  433  make
+  434  bin/test-hw
+  435  make
+  436  bin/test-hw
+  437  make
+  438  bin/test-hw
+  439  make
+  440  bin/test-hw
+  441  make
+  442  bin/test-hw
+  443  make
+  444  bin/test-hw
+  445  make
+  446  bin/test-hw
+  447  make
+  448  bin/test-hw
+  449  make
+  450  bin/test-hw
+  451  make
+  452  bin/test-hw
+  453  make
+  454  make
+  455  bin/test-hw
+  456  make
+  457  bin/test-hw
+  458  git add .
+  459  git commit
+  460  make
+  461  git add .
+  462  git commit
+  463  git push
+  464  git pull
+  465  make
+  466  bin/test-hw
+  467  make
+  468  bin/test-hw
+  469  bin/test-hw
+  470  make
+  471  bin/test-hw
+  472  git pull
+  473  git pull
+  474  git commit
+  475  git add .
+  476  git commit
+  477  git add .
+  478  git commit
+  479  make
+  480  git commit
+  481  bin/test-hw
+  482  make clean
+  483  git add .
+  484  git commit
+  485  git push
+  486  git pull
+  487  hint:   git config pull.rebase false  # merge
+  488   git config pull.rebase false  # merge
+  489  git push
+  490  git pull
+  491  make
+  492  bin/test-hw
+  493  git push
+  494  make
+  495  bin/test-hw
+  496  make
+  497  make
+  498  make
+  499  make clean
+  500  make
+  501  make clean
+  502  make check
+  503  make tests
+  504  ./mini_ci
+  505  ./mini_ci testcases/err_ops.s
+  506  make clean
+  507  make debug
+  508  gdb mini_ci
+  509  ./mini_ci_reference testcases/err_ops.s
+  510  make
+  511  ./mini_ci testcases/err_ops.s
+  512  ./mini_ci testcases/err_ops.s
+  513  ./mini_ci testcases/err_ops.s
+  514  make
+  515  ./mini_ci testcases/err_ops.s
+  516  ./mini_ci_reference testcases/err_ops.s
+  517  make check
+  518  ./mini_ci testcases/err_ops2.s
+  519  make clean
+  520  make debug
+  521  gdb mini_ci
+  522  make
+  523  make clean
+  524  ./mini_ci testcases/err_ops2.s
+  525  ./mini_ci testcases/err_ops2.s
+  526  cd
+  527  ls 
+  528  cd mastery-version-a
+  529  ls
+  530  ./mini_ci testcases/err_ops2.s
+  531  make
+  532  make clean
+  533  ./mini_ci_reference testcases/err_ops.s
+  534  ./mini_ci testcases/err_ops2.s
+  535  ./mini_ci testcases/err_ops.s
+  536  cd
+  537  ls
+  538  cd mastery-version-a
+  539  ls
+  540  make 
+  541  make clean
+  542  make check
+  543  r ./mini_ci testcases/err_ops2.s
+  544  ./mini_ci testcases/err_ops2.s
+  545  make
+  546  make clean
+  547  ./mini_ci testcases/err_ops2.s
+  548  make
+  549  ./mini_ci testcases/err_ops2.s
+  550  ./mini_ci testcases/err_ops2.s
+  551  make clean
+  552  gdb mini_ci
+  553  make clean
+  554  make
+  555  make clean
+  556  gdb mini_ci
+  557  make clean
+  558  make debug
+  559  gdb mini_ci
+  560  ./mini_ci_reference testcases/err_ops2.s
+  561  make 
+  562  make check
+  563  ./mini_ci_reference testcases/multi_op.s
+  564  make clean
+  565  make debug
+  566  gdb mini_ci
+  567  make 
+  568  make clean
+  569  make debug
+  570  gdb mini_ci
+  571  make
+  572  make clean
+  573  make 
+  574  ./mini_ci testcases/multi_op.s
+  575  make check
+  576  ./mini_ci testcases/multi_op_err.s
+  577  ./mini_ci_reference testcases/multi_op_err.s
+  578  make clean
+  579  make debug
+  580  gdb mini_ci
+  581  make clean
+  582  make debug
+  583  gdb mini_ci
+  584  make
+  585  make check
+  586  mini_ci_reference testcases/multi_op_err.s
+  587  mini_ci_ testcases/multi_op_err.s
+  588  mini_ci testcases/multi_op_err.s
+  589  make
+  590  mini_ci testcases/multi_op_err.s
+  591  make check
+  592  history
+  593  history > shell_logs.txt
+
+   31  bt
+   32  p val_a
+   33  p head->next
+   34  p new_token
+   35  p new_token->val
+   36  p val_b->val - val_a->val
+   37  p val_a->val
+   38  p val_b->val
+   39  q
+   40  show commands
